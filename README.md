@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/icon.png" width="128" height="128" alt="SoundCloudRPC Logo" />
+  <img src="./assets/icon.png" width="128" height="128" alt="SoundCloudRPC Logo" />
   <h1>SoundCloudRPC</h1>
   <p><b>Zeige deinen Freunden auf Discord, was du gerade auf SoundCloud hörst!</b></p>
   
